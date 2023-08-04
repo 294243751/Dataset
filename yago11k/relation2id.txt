@@ -1,0 +1,10 @@
+was born in	0
+died in	7
+works at	1
+plays for	2
+has won prize	3
+is married to	4
+owns	5
+graduated from	6
+is affiliated to	8
+created	9

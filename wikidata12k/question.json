@@ -1,0 +1,354 @@
+[
+    {
+        "question": "what's academic degree did Eugen Merzbacher receive??Show me the answer in the form of a knowledge graph quadruple.",
+        "kg": "[Eugen Merzbacher, academic degree, Doctor of Philosophy, 1950-##-##, 1950-##-##]"
+    },
+    {
+        "question": "what's academic degree did Pyotr Lebedev receive??Show me the answer in the form of a knowledge graph quadruple.",
+        "kg": "[Pyotr Lebedev, academic degree, Doctor of Sciences in Physics and Mathematics, 1899-##-##, 1899-##-##]"
+    },
+    {
+        "question": "what's academic degree did Claus Auer receive??Show me the answer in the form of a knowledge graph quadruple.",
+        "kg": "[Claus Auer, academic degree, doctorate, 1980-##-##, 1980-##-##]"
+    },
+    {
+        "question": "what's academic degree did Hans-Peter Uhl receive??Show me the answer in the form of a knowledge graph quadruple.",
+        "kg": "[Hans-Peter Uhl, academic degree, doctorate, 1974-##-##, 1974-##-##]"
+    },
+    {
+        "question": "what's academic degree did Christian Baldus receive??Show me the answer in the form of a knowledge graph quadruple.",
+        "kg": "[Christian Baldus, academic degree, habilitation, 2002-##-##, 2002-##-##]"
+    },
+    {
+        "question": "what's academic degree did Gesine Lötzsch receive??Show me the answer in the form of a knowledge graph quadruple.",
+        "kg": "[Gesine Lötzsch, academic degree, Diplom, 1985-##-##, 1985-##-##]"
+    },
+    {
+        "question": "what's academic degree did Elisabeth Herrmann-Otto receive??Show me the answer in the form of a knowledge graph quadruple.",
+        "kg": "[Elisabeth Herrmann-Otto, academic degree, doctorate, 1977-##-##, 1977-##-##]"
+    },
+    {
+        "question": "what's academic degree did Jürgen Todenhöfer receive??Show me the answer in the form of a knowledge graph quadruple.",
+        "kg": "[Jürgen Todenhöfer, academic degree, doctorate, 1969-##-##, 1969-##-##]"
+    },
+    {
+        "question": "what's academic degree did Christian Baldus receive??Show me the answer in the form of a knowledge graph quadruple.",
+        "kg": "[Christian Baldus, academic degree, Doctor of Laws, 1998-##-##, 1998-##-##]"
+    },
+    {
+        "question": "what's academic degree did Dietmar Kienast receive??Show me the answer in the form of a knowledge graph quadruple.",
+        "kg": "[Dietmar Kienast, academic degree, habilitation, 1963-##-##, 1963-##-##]"
+    },
+    {
+        "question": "what's academic degree did Nikolai Voronin receive??Show me the answer in the form of a knowledge graph quadruple.",
+        "kg": "[Nikolai Voronin, academic degree, Doctor of Historical Sciences, 1945-##-##, 1945-##-##]"
+    },
+    {
+        "question": "what's academic degree did Heinrich Heydemann receive??Show me the answer in the form of a knowledge graph quadruple.",
+        "kg": "[Heinrich Heydemann, academic degree, habilitation, 1869-##-##, 1869-##-##]"
+    },
+    {
+        "question": "what's academic degree did Eberhard Schneider receive??Show me the answer in the form of a knowledge graph quadruple.",
+        "kg": "[Eberhard Schneider, academic degree, doctorate, 1970-##-##, 1970-##-##]"
+    },
+    {
+        "question": "what's academic degree did Daniel Polz receive??Show me the answer in the form of a knowledge graph quadruple.",
+        "kg": "[Daniel Polz, academic degree, doctorate, 1988-##-##, 1988-##-##]"
+    },
+    {
+        "question": "what's academic degree did Axel Reimann receive??Show me the answer in the form of a knowledge graph quadruple.",
+        "kg": "[Axel Reimann, academic degree, doctorate, 1982-##-##, 1982-##-##]"
+    },
+    {
+        "question": "what's academic degree did Michael Grätzel receive??Show me the answer in the form of a knowledge graph quadruple.",
+        "kg": "[Michael Grätzel, academic degree, Doctor of Philosophy, 1971-##-##, 1971-##-##]"
+    },
+    {
+        "question": "what's academic degree did Edward Calvin Kendall receive??Show me the answer in the form of a knowledge graph quadruple.",
+        "kg": "[Edward Calvin Kendall, academic degree, Doctor of Philosophy, 1910-##-##, 1910-##-##]"
+    },
+    {
+        "question": "what's academic degree did Víctor García de la Concha receive??Show me the answer in the form of a knowledge graph quadruple.",
+        "kg": "[Víctor García de la Concha, academic degree, Doctor, 1970-##-##, 1970-##-##]"
+    },
+    {
+        "question": "what's academic degree did Dean Kamen receive??Show me the answer in the form of a knowledge graph quadruple.",
+        "kg": "[Dean Kamen, academic degree, Doctor of Engineering (honorary), 2001-##-##, 2001-##-##]"
+    },
+    {
+        "question": "what's academic degree did Gilles Pisier receive??Show me the answer in the form of a knowledge graph quadruple.",
+        "kg": "[Gilles Pisier, academic degree, doctorate in France, 1977-##-##, 1977-##-##]"
+    },
+    {
+        "question": "what's academic degree did Pyotr Lebedev receive??Show me the answer in the form of a knowledge graph quadruple.",
+        "kg": "[Pyotr Lebedev, academic degree, Doctor of Philosophy, 1891-##-##, 1891-##-##]"
+    },
+    {
+        "question": "what's academic degree did Andreas Umland receive??Show me the answer in the form of a knowledge graph quadruple.",
+        "kg": "[Andreas Umland, academic degree, Doctor of Philosophy, 2007-##-##, 2007-##-##]"
+    },
+    {
+        "question": "what's academic degree did Wilhelm Kroll receive??Show me the answer in the form of a knowledge graph quadruple.",
+        "kg": "[Wilhelm Kroll, academic degree, habilitation, 1894-##-##, 1894-##-##]"
+    },
+    {
+        "question": "what's academic degree did Maurice Anthony Biot receive??Show me the answer in the form of a knowledge graph quadruple.",
+        "kg": "[Maurice Anthony Biot, academic degree, Doctor of Philosophy, 1932-##-##, 1932-##-##]"
+    },
+    {
+        "question": "what's academic degree did Gunnar Brands receive??Show me the answer in the form of a knowledge graph quadruple.",
+        "kg": "[Gunnar Brands, academic degree, doctorate, 1985-##-##, 1985-##-##]"
+    },
+    {
+        "question": "what's academic degree did Viktor Bunyakovsky receive??Show me the answer in the form of a knowledge graph quadruple.",
+        "kg": "[Viktor Bunyakovsky, academic degree, Doctor of Science, 1825-##-##, 1825-##-##]"
+    },
+    {
+        "question": "what's academic degree did Veniamin Kagan receive??Show me the answer in the form of a knowledge graph quadruple.",
+        "kg": "[Veniamin Kagan, academic degree, Doctor of Sciences in Physics and Mathematics, 1934-##-##, 1934-##-##]"
+    },
+    {
+        "question": "what's academic degree did Thomas Klestil receive??Show me the answer in the form of a knowledge graph quadruple.",
+        "kg": "[Thomas Klestil, academic degree, Diploma of Business Administration, 1957-##-##, 1957-##-##]"
+    },
+    {
+        "question": "what's academic degree did Juho Vennola receive??Show me the answer in the form of a knowledge graph quadruple.",
+        "kg": "[Juho Vennola, academic degree, Doctor of Philosophy, 1903-##-##, 1903-##-##]"
+    },
+    {
+        "question": "what's academic degree did Ruth Leiserowitz receive??Show me the answer in the form of a knowledge graph quadruple.",
+        "kg": "[Ruth Leiserowitz, academic degree, doctorate, 1997-##-##, 1997-##-##]"
+    },
+    {
+        "question": "what's academic degree did Luis Walter Alvarez receive??Show me the answer in the form of a knowledge graph quadruple.",
+        "kg": "[Luis Walter Alvarez, academic degree, Bachelor of Science, 1932-##-##, 1932-##-##]"
+    },
+    {
+        "question": "what's academic degree did Armin Jähne receive??Show me the answer in the form of a knowledge graph quadruple.",
+        "kg": "[Armin Jähne, academic degree, habilitation, 1980-##-##, 1980-##-##]"
+    },
+    {
+        "question": "what's academic degree did Elke Hartmann receive??Show me the answer in the form of a knowledge graph quadruple.",
+        "kg": "[Elke Hartmann, academic degree, Doctor, 2000-##-##, 2000-##-##]"
+    },
+    {
+        "question": "what's academic degree did Viktor Bunyakovsky receive??Show me the answer in the form of a knowledge graph quadruple.",
+        "kg": "[Viktor Bunyakovsky, academic degree, Bachelor of Science, 1824-##-##, 1824-##-##]"
+    },
+    {
+        "question": "what's academic degree did Aleksandr Lyapunov receive??Show me the answer in the form of a knowledge graph quadruple.",
+        "kg": "[Aleksandr Lyapunov, academic degree, master's degree, 1885-##-##, 1885-##-##]"
+    },
+    {
+        "question": "what's academic degree did Volker Perthes receive??Show me the answer in the form of a knowledge graph quadruple.",
+        "kg": "[Volker Perthes, academic degree, Doctor, 1990-##-##, 1990-##-##]"
+    },
+    {
+        "question": "what's academic degree did Andreas Umland receive??Show me the answer in the form of a knowledge graph quadruple.",
+        "kg": "[Andreas Umland, academic degree, doctorate, 1998-##-##, 1998-##-##]"
+    },
+    {
+        "question": "what's academic degree did Jean-Jacques Laffont receive??Show me the answer in the form of a knowledge graph quadruple.",
+        "kg": "[Jean-Jacques Laffont, academic degree, doctorate, 1975-##-##, 1975-##-##]"
+    },
+    {
+        "question": "what's academic degree did Heinrich Heydemann receive??Show me the answer in the form of a knowledge graph quadruple.",
+        "kg": "[Heinrich Heydemann, academic degree, doctorate, 1865-##-##, 1865-##-##]"
+    },
+    {
+        "question": "what's academic degree did Jean-Jacques Laffont receive??Show me the answer in the form of a knowledge graph quadruple.",
+        "kg": "[Jean-Jacques Laffont, academic degree, doctorate in France, 1972-##-##, 1972-##-##]"
+    },
+    {
+        "question": "what's academic degree did Alice Bradley Sheldon receive??Show me the answer in the form of a knowledge graph quadruple.",
+        "kg": "[Alice Bradley Sheldon, academic degree, doctorate, 1967-##-##, 1967-##-##]"
+    },
+    {
+        "question": "what's academic degree did Jutta Dresken-Weiland receive??Show me the answer in the form of a knowledge graph quadruple.",
+        "kg": "[Jutta Dresken-Weiland, academic degree, doctorate, 1990-##-##, 1990-##-##]"
+    },
+    {
+        "question": "what's academic degree did Donald Trump receive??Show me the answer in the form of a knowledge graph quadruple.",
+        "kg": "[Donald Trump, academic degree, Bachelor of Science, 1968-##-##, 1968-##-##]"
+    },
+    {
+        "question": "what's academic degree did Kenneth Arrow receive??Show me the answer in the form of a knowledge graph quadruple.",
+        "kg": "[Kenneth Arrow, academic degree, master's degree, 1941-##-##, 1941-##-##]"
+    },
+    {
+        "question": "what's academic degree did PZ Myers receive??Show me the answer in the form of a knowledge graph quadruple.",
+        "kg": "[PZ Myers, academic degree, Doctor of Philosophy, 1985-##-##, 1985-##-##]"
+    },
+    {
+        "question": "what's academic degree did Götz Naleppa receive??Show me the answer in the form of a knowledge graph quadruple.",
+        "kg": "[Götz Naleppa, academic degree, Doctor of Philosophy, 1970-##-##, 1970-##-##]"
+    },
+    {
+        "question": "what's academic degree did Jutta Dresken-Weiland receive??Show me the answer in the form of a knowledge graph quadruple.",
+        "kg": "[Jutta Dresken-Weiland, academic degree, habilitation, 2002-##-##, 2002-##-##]"
+    },
+    {
+        "question": "what's academic degree did Roderich Kiesewetter receive??Show me the answer in the form of a knowledge graph quadruple.",
+        "kg": "[Roderich Kiesewetter, academic degree, Diploma of Business Administration, 1986-##-##, 1986-##-##]"
+    },
+    {
+        "question": "what's academic degree did Vladimir Putin receive??Show me the answer in the form of a knowledge graph quadruple.",
+        "kg": "[Vladimir Putin, academic degree, Candidate of Economic Sciences, 1997-##-##, 1997-##-##]"
+    },
+    {
+        "question": "what's academic degree did Snježana Kordić receive??Show me the answer in the form of a knowledge graph quadruple.",
+        "kg": "[Snježana Kordić, academic degree, habilitation, 2002-##-##, 2002-##-##]"
+    },
+    {
+        "question": "what's academic degree did Daniel Polz receive??Show me the answer in the form of a knowledge graph quadruple.",
+        "kg": "[Daniel Polz, academic degree, habilitation, 2006-##-##, 2006-##-##]"
+    },
+    {
+        "question": "what's academic degree did Luis Walter Alvarez receive??Show me the answer in the form of a knowledge graph quadruple.",
+        "kg": "[Luis Walter Alvarez, academic degree, Doctor of Philosophy, 1936-##-##, 1936-##-##]"
+    },
+    {
+        "question": "what's academic degree did Wilhelm Kroll receive??Show me the answer in the form of a knowledge graph quadruple.",
+        "kg": "[Wilhelm Kroll, academic degree, Doctor of Philosophy, 1891-##-##, 1891-##-##]"
+    },
+    {
+        "question": "what's academic degree did Snježana Kordić receive??Show me the answer in the form of a knowledge graph quadruple.",
+        "kg": "[Snježana Kordić, academic degree, Doctor of Science, 1993-##-##, 1993-##-##]"
+    },
+    {
+        "question": "what's academic degree did Aleksandr Lyapunov receive??Show me the answer in the form of a knowledge graph quadruple.",
+        "kg": "[Aleksandr Lyapunov, academic degree, Doctor of Science, 1892-##-##, 1892-##-##]"
+    },
+    {
+        "question": "what's academic degree did Dana Scott receive??Show me the answer in the form of a knowledge graph quadruple.",
+        "kg": "[Dana Scott, academic degree, Doctor of Philosophy, 1958-##-##, 1958-##-##]"
+    },
+    {
+        "question": "what's academic degree did Herfried Münkler receive??Show me the answer in the form of a knowledge graph quadruple.",
+        "kg": "[Herfried Münkler, academic degree, doctorate, 1981-##-##, 1981-##-##]"
+    },
+    {
+        "question": "what's academic degree did Ulrike Guérot receive??Show me the answer in the form of a knowledge graph quadruple.",
+        "kg": "[Ulrike Guérot, academic degree, doctorate, 1995-##-##, 1995-##-##]"
+    },
+    {
+        "question": "what's academic degree did Dean Kamen receive??Show me the answer in the form of a knowledge graph quadruple.",
+        "kg": "[Dean Kamen, academic degree, Doctor of Engineering (honorary), 1996-##-##, 1996-##-##]"
+    },
+    {
+        "question": "what's academic degree did Adolf Laufs receive??Show me the answer in the form of a knowledge graph quadruple.",
+        "kg": "[Adolf Laufs, academic degree, Doctor of Law (honorary), 1982-##-##, 1982-##-##]"
+    },
+    {
+        "question": "what's academic degree did Adolf Laufs receive??Show me the answer in the form of a knowledge graph quadruple.",
+        "kg": "[Adolf Laufs, academic degree, Doctor of Laws, 1961-##-##, 1961-##-##]"
+    },
+    {
+        "question": "what's academic degree did Alfred Gudeman receive??Show me the answer in the form of a knowledge graph quadruple.",
+        "kg": "[Alfred Gudeman, academic degree, Doctor of Philosophy, 1888-##-##, 1888-##-##]"
+    },
+    {
+        "question": "what's academic degree did André Vauchez receive??Show me the answer in the form of a knowledge graph quadruple.",
+        "kg": "[André Vauchez, academic degree, doctorate in France, 1978-##-##, 1978-##-##]"
+    },
+    {
+        "question": "what's academic degree did Yuri Knorozov receive??Show me the answer in the form of a knowledge graph quadruple.",
+        "kg": "[Yuri Knorozov, academic degree, Doctor of Historical Sciences, 1955-##-##, 1955-##-##]"
+    },
+    {
+        "question": "what's academic degree did Armin Jähne receive??Show me the answer in the form of a knowledge graph quadruple.",
+        "kg": "[Armin Jähne, academic degree, Doctor, 1970-##-##, 1970-##-##]"
+    },
+    {
+        "question": "what's academic degree did Wernher von Braun receive??Show me the answer in the form of a knowledge graph quadruple.",
+        "kg": "[Wernher von Braun, academic degree, Doctor of Philosophy, 1934-##-##, 1934-##-##]"
+    },
+    {
+        "question": "what's academic degree did Dietmar Kienast receive??Show me the answer in the form of a knowledge graph quadruple.",
+        "kg": "[Dietmar Kienast, academic degree, doctorate, 1953-##-##, 1953-##-##]"
+    },
+    {
+        "question": "what's academic degree did Volker Perthes receive??Show me the answer in the form of a knowledge graph quadruple.",
+        "kg": "[Volker Perthes, academic degree, habilitation, 1999-##-##, 1999-##-##]"
+    },
+    {
+        "question": "what's academic degree did PZ Myers receive??Show me the answer in the form of a knowledge graph quadruple.",
+        "kg": "[PZ Myers, academic degree, Bachelor of Science, 1979-##-##, 1979-##-##]"
+    },
+    {
+        "question": "what's academic degree did Norbert Röttgen receive??Show me the answer in the form of a knowledge graph quadruple.",
+        "kg": "[Norbert Röttgen, academic degree, doctorate, 2001-##-##, 2001-##-##]"
+    },
+    {
+        "question": "what's academic degree did Joseph Polchinski receive??Show me the answer in the form of a knowledge graph quadruple.",
+        "kg": "[Joseph Polchinski, academic degree, Doctor of Philosophy, 1980-##-##, 1980-##-##]"
+    },
+    {
+        "question": "what's academic degree did Barbara Hendricks receive??Show me the answer in the form of a knowledge graph quadruple.",
+        "kg": "[Barbara Hendricks, academic degree, doctorate, 1980-##-##, ####-##-##]"
+    },
+    {
+        "question": "what's academic degree did Axel Reimann receive??Show me the answer in the form of a knowledge graph quadruple.",
+        "kg": "[Axel Reimann, academic degree, Diplom, 1977-##-##, 1977-##-##]"
+    },
+    {
+        "question": "what's academic degree did Dietmar Bartsch receive??Show me the answer in the form of a knowledge graph quadruple.",
+        "kg": "[Dietmar Bartsch, academic degree, Candidate of Economic Sciences, 1990-##-##, 1990-##-##]"
+    },
+    {
+        "question": "what's academic degree did Elisabeth Herrmann-Otto receive??Show me the answer in the form of a knowledge graph quadruple.",
+        "kg": "[Elisabeth Herrmann-Otto, academic degree, habilitation, 1993-##-##, 1993-##-##]"
+    },
+    {
+        "question": "what's academic degree did Steven Weinberg receive??Show me the answer in the form of a knowledge graph quadruple.",
+        "kg": "[Steven Weinberg, academic degree, doctorate, 1957-##-##, 1957-##-##]"
+    },
+    {
+        "question": "what's academic degree did Ivan Matveevich Vinogradov receive??Show me the answer in the form of a knowledge graph quadruple.",
+        "kg": "[Ivan Matveevich Vinogradov, academic degree, master's degree, 1915-##-##, 1915-##-##]"
+    },
+    {
+        "question": "what's academic degree did Zbigniew Brzezinski receive??Show me the answer in the form of a knowledge graph quadruple.",
+        "kg": "[Zbigniew Brzezinski, academic degree, master's degree, 1950-##-##, 1950-##-##]"
+    },
+    {
+        "question": "what's academic degree did Eberhard Schneider receive??Show me the answer in the form of a knowledge graph quadruple.",
+        "kg": "[Eberhard Schneider, academic degree, habilitation, 1992-##-##, 1992-##-##]"
+    },
+    {
+        "question": "what's academic degree did Ieke Moerdijk receive??Show me the answer in the form of a knowledge graph quadruple.",
+        "kg": "[Ieke Moerdijk, academic degree, doctorate, 1985-##-##, 1985-##-##]"
+    },
+    {
+        "question": "what's academic degree did Gwenaëlle Aubry receive??Show me the answer in the form of a knowledge graph quadruple.",
+        "kg": "[Gwenaëlle Aubry, academic degree, doctorate in France, 1998-##-##, 1998-##-##]"
+    },
+    {
+        "question": "what's academic degree did Kenneth Arrow receive??Show me the answer in the form of a knowledge graph quadruple.",
+        "kg": "[Kenneth Arrow, academic degree, Doctor of Philosophy, 1951-##-##, 1951-##-##]"
+    },
+    {
+        "question": "what's academic degree did Heinrich August Winkler receive??Show me the answer in the form of a knowledge graph quadruple.",
+        "kg": "[Heinrich August Winkler, academic degree, doctorate, 1963-##-##, 1963-##-##]"
+    },
+    {
+        "question": "what's academic degree did André Antoine Thomas receive??Show me the answer in the form of a knowledge graph quadruple.",
+        "kg": "[André Antoine Thomas, academic degree, doctorate, 1884-##-##, 1884-##-##]"
+    },
+    {
+        "question": "what's academic degree did Heinrich August Winkler receive??Show me the answer in the form of a knowledge graph quadruple.",
+        "kg": "[Heinrich August Winkler, academic degree, habilitation, 1970-##-##, 1970-##-##]"
+    },
+    {
+        "question": "what's academic degree did Hans Bethe receive??Show me the answer in the form of a knowledge graph quadruple.",
+        "kg": "[Hans Bethe, academic degree, doctorate, 1928-##-##, 1928-##-##]"
+    },
+    {
+        "question": "what's academic degree did Ruth Leiserowitz receive??Show me the answer in the form of a knowledge graph quadruple.",
+        "kg": "[Ruth Leiserowitz, academic degree, habilitation, 2007-##-##, 2007-##-##]"
+    },
+    {
+        "question": "what's academic degree did Karl Schlögel receive??Show me the answer in the form of a knowledge graph quadruple.",
+        "kg": "[Karl Schlögel, academic degree, doctorate, 1981-##-##, 1981-##-##]"
+    }
+]
